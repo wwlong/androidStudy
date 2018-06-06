@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/workspace/github_work/androidStudy/Dual-Camera/mp4parser/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/workspace/github_work/androidStudy/Dual-Camera/mp4parser/src/debug/jniLibs"/></dataSet></merger>

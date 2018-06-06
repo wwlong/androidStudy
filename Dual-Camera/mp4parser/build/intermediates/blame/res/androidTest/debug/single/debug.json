@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_launcher.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_launcher.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_action_search.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_action_search.png"
+    },
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-hdpi-v4_ic_launcher.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-hdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4_ic_action_search.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_action_search.png"
+    },
+    {
+        "merged": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4_ic_action_search.png.flat",
+        "source": "/workspace/github_work/Android_developing/Dual-Camera/mp4parser/build/intermediates/bundles/debug/res/drawable-mdpi-v4/ic_action_search.png"
+    }
+]
